@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TEXT_KEY" translatable="false">text</string>
+    <string name="COLOR_KEY" translatable="false">color</string>
+    <string name="HISTORY_KEY" translatable="false">history</string>
+</resources>

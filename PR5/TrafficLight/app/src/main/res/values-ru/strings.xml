@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrafficLight</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+    <string name="dark_blue">Ночной синий</string>
+    <string name="dark_grey">Ночной серый</string>
+    <string name="dark_purple">Ночной фиолетовый</string>
+    <string name="switch_buttons">Переключить кнопки</string>
+    <string name="history">История</string>
+    <string name="start_service">Запустить сервис</string>
+    <string name="stop_service">Остановить сервис</string>
+</resources>
